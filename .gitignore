@@ -1,3 +1,4 @@
 # Don't upload CSVs to Git
 Kaggle-Data-Files/
 *.csv
+*.zip
