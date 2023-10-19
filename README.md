@@ -1,6 +1,6 @@
 # NFL Big Data Bowl Project
 
-This project is our contribution for the NFL Big Data Bowl, where we analyze and work with the provided NFL tracking data to gain insights and develop solutions related to football analytics.
+This project is our contribution to the NFL Big Data Bowl, where we analyze and work with the provided NFL tracking data to gain insights and develop solutions related to football analytics.
 
 To learn more about this project, please visit the official [Kaggle Page](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data) of the competition.
  
