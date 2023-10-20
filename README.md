@@ -23,7 +23,9 @@ To be updated.
 
 ## Setup
 
-To be updated.
+To be able to download the assets directly from Kaggle, please review these articles.
+https://www.kaggle.com/general/74235
+https://www.ankushchoubey.com/download_kaggle/
 
 ## Usage
 
